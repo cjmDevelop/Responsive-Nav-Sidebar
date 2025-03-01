@@ -1,2 +1,2 @@
 # Responsive-Nav-Sidebar
-A nav and sidebar which should be good for both Desktop and mobile view.
+Responsive nav & sidebar for desktop and mobile views.
